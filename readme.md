@@ -1,6 +1,6 @@
-💻 Languages: Python, Golang, Java, C and more.
-📚 Currently Learning: How to sail my ideas
-💡 Interests: Machine Learning, Problem solving, Automation, web scraping, and data science.
+- 💻 Languages: Python, Golang, Java, C and more.
+- 📚 Currently Learning: How to sail my ideas
+- 💡 Interests: Machine Learning, Problem solving, Automation, web scraping, and data science.
 
 [![Hits](https://hits.sh/github.com/Kaushik-Ss.svg?label=Profile-Views)](https://hits.sh/github.com/Kaushik-Ss/)
 [![Hours spent searching for i](https://wakatime.com/badge/user/76b68047-0e7a-49a1-ac11-f631a2b45e33.svg)](https://github.com/kaushik-ss)
